@@ -1,0 +1,12 @@
+.left-margin {
+    margin: 3rem .5em 3rem 3rem;
+}
+
+.right-button-margin {
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+
+.btn {
+    margin-right: 0.4rem;
+}
